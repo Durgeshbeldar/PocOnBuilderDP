@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Office Work\\Monocept Training\\Assignments\\POConBuilderPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDB8D59-BEB7-4F66-AF60-072B8095166D}|POConBuilderPattern\\POConBuilderDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconbuilderpattern\\poconbuilderpattern\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDB8D59-BEB7-4F66-AF60-072B8095166D}|POConBuilderPattern\\POConBuilderDesignPattern.csproj|solutionrelative:poconbuilderpattern\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDB8D59-BEB7-4F66-AF60-072B8095166D}|POConBuilderPattern\\POConBuilderDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconbuilderpattern\\poconbuilderpattern\\builders\\iphonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDB8D59-BEB7-4F66-AF60-072B8095166D}|POConBuilderPattern\\POConBuilderDesignPattern.csproj|solutionrelative:poconbuilderpattern\\builders\\iphonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDB8D59-BEB7-4F66-AF60-072B8095166D}|POConBuilderPattern\\POConBuilderDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconbuilderpattern\\poconbuilderpattern\\presentation\\builderpatterndemoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDB8D59-BEB7-4F66-AF60-072B8095166D}|POConBuilderPattern\\POConBuilderDesignPattern.csproj|solutionrelative:poconbuilderpattern\\presentation\\builderpatterndemoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDB8D59-BEB7-4F66-AF60-072B8095166D}|POConBuilderPattern\\POConBuilderDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconbuilderpattern\\poconbuilderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDB8D59-BEB7-4F66-AF60-072B8095166D}|POConBuilderPattern\\POConBuilderDesignPattern.csproj|solutionrelative:poconbuilderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDB8D59-BEB7-4F66-AF60-072B8095166D}|POConBuilderPattern\\POConBuilderDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconbuilderpattern\\poconbuilderpattern\\builders\\phonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDB8D59-BEB7-4F66-AF60-072B8095166D}|POConBuilderPattern\\POConBuilderDesignPattern.csproj|solutionrelative:poconbuilderpattern\\builders\\phonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuilderPatternDemoUI.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\POConBuilderPattern\\POConBuilderPattern\\Presentation\\BuilderPatternDemoUI.cs",
+              "RelativeDocumentMoniker": "POConBuilderPattern\\Presentation\\BuilderPatternDemoUI.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\POConBuilderPattern\\POConBuilderPattern\\Presentation\\BuilderPatternDemoUI.cs",
+              "RelativeToolTip": "POConBuilderPattern\\Presentation\\BuilderPatternDemoUI.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:19:54.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\POConBuilderPattern\\POConBuilderPattern\\Models\\Phone.cs",
+              "RelativeDocumentMoniker": "POConBuilderPattern\\Models\\Phone.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\POConBuilderPattern\\POConBuilderPattern\\Models\\Phone.cs",
+              "RelativeToolTip": "POConBuilderPattern\\Models\\Phone.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:56:49.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhoneBuilder.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\POConBuilderPattern\\POConBuilderPattern\\Builders\\PhoneBuilder.cs",
+              "RelativeDocumentMoniker": "POConBuilderPattern\\Builders\\PhoneBuilder.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\POConBuilderPattern\\POConBuilderPattern\\Builders\\PhoneBuilder.cs",
+              "RelativeToolTip": "POConBuilderPattern\\Builders\\PhoneBuilder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:56:29.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPhoneBuilder.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\POConBuilderPattern\\POConBuilderPattern\\Builders\\IPhoneBuilder.cs",
+              "RelativeDocumentMoniker": "POConBuilderPattern\\Builders\\IPhoneBuilder.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\POConBuilderPattern\\POConBuilderPattern\\Builders\\IPhoneBuilder.cs",
+              "RelativeToolTip": "POConBuilderPattern\\Builders\\IPhoneBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:56:19.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\POConBuilderPattern\\POConBuilderPattern\\Program.cs",
+              "RelativeDocumentMoniker": "POConBuilderPattern\\Program.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\POConBuilderPattern\\POConBuilderPattern\\Program.cs",
+              "RelativeToolTip": "POConBuilderPattern\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:35:20.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

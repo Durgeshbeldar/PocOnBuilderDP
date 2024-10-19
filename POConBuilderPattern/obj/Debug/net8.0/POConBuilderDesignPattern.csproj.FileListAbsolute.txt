@@ -1,0 +1,14 @@
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\bin\Debug\net8.0\POConBuilderDesignPattern.exe
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\bin\Debug\net8.0\POConBuilderDesignPattern.deps.json
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\bin\Debug\net8.0\POConBuilderDesignPattern.runtimeconfig.json
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\bin\Debug\net8.0\POConBuilderDesignPattern.dll
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\bin\Debug\net8.0\POConBuilderDesignPattern.pdb
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\obj\Debug\net8.0\POConBuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\obj\Debug\net8.0\POConBuilderDesignPattern.AssemblyInfoInputs.cache
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\obj\Debug\net8.0\POConBuilderDesignPattern.AssemblyInfo.cs
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\obj\Debug\net8.0\POConBuilderDesignPattern.csproj.CoreCompileInputs.cache
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\obj\Debug\net8.0\POConBuilderDesignPattern.dll
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\obj\Debug\net8.0\refint\POConBuilderDesignPattern.dll
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\obj\Debug\net8.0\POConBuilderDesignPattern.pdb
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\obj\Debug\net8.0\POConBuilderDesignPattern.genruntimeconfig.cache
+S:\Office Work\Monocept Training\Assignments\POConBuilderPattern\POConBuilderPattern\obj\Debug\net8.0\ref\POConBuilderDesignPattern.dll
